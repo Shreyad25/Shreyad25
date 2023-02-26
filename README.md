@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shreya Deshmukh</h1>
-<h3 align="center">A passionate IT Student from India</h3>
+<h3 align="center">A passionate IT Student from India. Having huge interest in programming.</h3>
 
 <img align = "right" alt="coding" width="400" src="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif">
 
